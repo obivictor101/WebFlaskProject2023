@@ -1,2 +1,2 @@
 # WebFlaskProject2023
-project
+project-ca1 project
